@@ -36,12 +36,11 @@ header {
     font-weight: 600;
     letter-spacing: .1rem;
     text-decoration: none;
-    text-transform: uppercase;
    }
 
    .copyright {
     color: rgb(108, 117, 125);
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'Courier New', Courier, monospace;
    }
 
    .news {
